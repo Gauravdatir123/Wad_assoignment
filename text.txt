@@ -8,7 +8,7 @@ git add .
 git commit -m "Initial commit"
 
 # 4. Add GitHub remote repository
-git remote add origin https://github.com/username/repository-name.git
+git remote add origin https://github.com/Gauravdatir123/Wad_assoignment
 
 # 5. Set branch name (important for first time)
 git branch -M main
@@ -20,3 +20,5 @@ first time
 
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
+
+done
